@@ -1,2 +1,8 @@
 videos/
 fotos/
+privado/
+passwords.txt
+db.sql
+*.zip
+*.rar
+*7z
